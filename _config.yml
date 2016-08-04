@@ -113,7 +113,7 @@ relative_permalinks: false
 permalink:     /:year/:month/:day/:title
 paginate: 6
 paginate_path: /page:num
-timezone:      Asia/Shanghai
+timezone:      Asia/Shenzhen
 
 quiet:    false
 defaults: []
