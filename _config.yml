@@ -19,9 +19,9 @@ fin_color:        "255,255,255"
 
 # Owner/author information
 owner:
-  name:           "Liu Xia"
+  name:           "Eleven1987"
   avatar:         moe.png
-  email:          lxconan@gmail.com
+  email:          cgq355716727@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Twer
   # Social networking links used in footer. Update and remove as you like.
@@ -104,7 +104,7 @@ detach:  false
 port:    4000
 host:    127.0.0.1
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://lxconan.github.io" # the base hostname & protocol for your site
+url: "http://eleven1987.github.io" # the base hostname & protocol for your site
 
 # Backwards-compatibility
 relative_permalinks: false
